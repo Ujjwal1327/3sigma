@@ -101,7 +101,6 @@ form > button {
 
 @media (max-width: 800px) {
   .container {
-    border: 2px solid red;
     width: 100%;
   }
 }
